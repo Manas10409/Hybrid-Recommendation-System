@@ -92,13 +92,13 @@ Three pages:
 - **New User** — Profile creation form → unique ID generated → top 5 matches shown with score breakdown → Accept/Reject to start personalizing.
 - **Returning User** — Enter saved ID → loads personalized weights → shows updated matches.
 
-![Screenshot from the actual App](Screeenshots/returning_user_1.png)
+![Screenshot from the actual App](Screenshots/returning_user_1.png)
 
-![Screenshot from the actual App](Screeenshots/returning_user_2.png)
+![Screenshot from the actual App](Screenshots/returning_user_2.png)
 
 - **System Demo** — Grouped bar chart comparing learned weights across all users, proving per-user divergence from the same starting point.
 
- ![Screenshot from the actual App](Screeenshots/Demo.png)
+ ![Screenshot from the actual App](Screenshots/Demo.png)
 
 ---
 
