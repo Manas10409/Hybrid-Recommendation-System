@@ -1,0 +1,78 @@
+{
+  "d687a259": {
+    "profile": {
+      "name": "Aryan Kapoor",
+      "age": 26,
+      "profession": "Data Scientist",
+      "location": "Bangalore",
+      "mbti": "INTP",
+      "experience_years": 3,
+      "professional_summary": "Data scientist with 3 years of experience in predictive analytics, skilled in Python, machine learning, and SQL. Passionate about transforming raw data into actionable business insights and building scalable ML pipelines.",
+      "about_me": " I thrive in collaborative environments where data drives decisions. Outside work you'll find me playing chess or reading about behavioral economics. I value intellectual honesty and continuous learning above everything else.",
+      "interests": "Chess, Machine Learning, Reading"
+    },
+    "weights": {
+      "w1": 0.7202,
+      "w2": 0.2193,
+      "w3": 0.0605,
+      "interactions": 41
+    }
+  },
+  "f4ce774f": {
+    "profile": {
+      "name": "Priya Sharma",
+      "age": 28,
+      "profession": "HR Manager",
+      "location": "Mumbai",
+      "mbti": "ENFJ",
+      "experience_years": 4,
+      "professional_summary": "HR manager with 4 years in talent management, skilled in employee engagement and performance management. Passionate about building inclusive workplace cultures.",
+      "about_me": " I love connecting with people and building communities. Outside work I enjoy cooking and volunteering at local NGOs. I value empathy and authentic relationships.",
+      "interests": "Volunteering, Cooking, Community Building"
+    },
+    "weights": {
+      "w1": 0.3837,
+      "w2": 0.2852,
+      "w3": 0.3311,
+      "interactions": 39
+    }
+  },
+  "93cd741e": {
+    "profile": {
+      "name": "Rahul Verma",
+      "age": 30,
+      "profession": "UX Designer",
+      "location": "Chennai",
+      "mbti": "INFP",
+      "experience_years": 5,
+      "professional_summary": "UX designer with 5 years creating intuitive digital experiences, skilled in Figma, user research and prototyping. Passionate about human centered design.",
+      "about_me": "Creative soul who loves art, music and meaningful conversations. I work best with people who share deep values and authentic expression.",
+      "interests": "Painting, Music, Philosophy"
+    },
+    "weights": {
+      "w1": 0.3636,
+      "w2": 0.4834,
+      "w3": 0.1529,
+      "interactions": 54
+    }
+  },
+  "1e42ce46": {
+    "profile": {
+      "name": "Sneha Iyer",
+      "age": 25,
+      "profession": "Machine Learning Engineer",
+      "location": "Hyderabad",
+      "mbti": "INTJ",
+      "experience_years": 2,
+      "professional_summary": "Machine learning engineer with 2 years building production ML systems, skilled in Python, TensorFlow and feature engineering. Passionate about AI research and scalable solutions.",
+      "about_me": "I love solving hard technical problems and reading research papers. Outside work I enjoy chess and open source contributions. I value intellectual depth and precision.",
+      "interests": "I love solving hard technical problems and reading research papers. Outside work I enjoy chess and open source contributions. I value intellectual depth and precision."
+    },
+    "weights": {
+      "w1": 0.6602,
+      "w2": 0.29,
+      "w3": 0.0499,
+      "interactions": 35
+    }
+  }
+}
